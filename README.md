@@ -1,12 +1,32 @@
-# PA 00
-
-For this assignment, you will submit TWO files -- the readme and the script file. 
+# Wendi Xue
 
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
+
+
+## EDUCATION
+
+__Fudan University (FDU) | Shanghai, China Sept.2020-Jun.2024__
+
+* Expected Bachelor of Law in Sociology (Jun.2024), GPA: 3.71/4.0, Ranking: Top 10%
+
+* Major Courses: Social Statistics and Software Application (A-), Social Statistics (A), Principles of Economics (A), Economic
+
+* Sociology (A-), Research Methods in Sociology A (A-), Classical Sociological Theory(Honor)(A)
+
+* Award: Second-prize Scholarships (Sept.2022, Sept.2021)
+
+__University of Toronto | Toronto, Ontario, Canada Jan.2023-Apr.2023__
+
+* Exchange Study, GPA: 3.33/4.0
+
+* Relevant Courses: Introduction to Social Network, Sociology of Family, Race, Class and Gender
+
+* Academic Paper:Gender Structural Inequality and Women's Mate Selection Criteria in China.(single author); The Social
+
+* Construction of Inequality in Brave New World.(single author)
+
+
+
 * Images: add a picture (of yourself or something else) to your repo and embed it in your README
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
