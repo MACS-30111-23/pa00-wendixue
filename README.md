@@ -1,7 +1,11 @@
 # Wendi Xue
 
+__my beautiful cat Bailey!__
+![image](https://github.com/MACS-30111-23/pa00-wendixue/blob/main/IMG_2065.jpg)
 
 
+## LINKEDIN
+https://www.linkedin.com/in/wendi-xue-b7003a32b/
 
 ## EDUCATION
 
@@ -26,20 +30,22 @@ __University of Toronto | Toronto, Ontario, Canada Jan.2023-Apr.2023__
 * Construction of Inequality in Brave New World.(single author)
 
 
+# Git/GitHub Workflow
+For this homework, I adopted a typical Git/GitHub workflow, which involved the following steps:
 
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+* __Cloning the repository__: I began by cloning the repository from GitHub to my local machine. This allowed me to work on the project offline and manage my changes more effectively.
+* __Making Changes Locally__: After cloning, I worked on the project files on my local machine. I created a structured directory and ensured that my files were properly organized before committing the changes.
+* __Committing Changes__: After making significant progress, I used git add to stage my files and git commit -m "message" to commit the changes with descriptive messages. Writing good commit messages helped me track my progress clearly.
+* __Pushing to GitHub__: Once I was happy with my local changes, I pushed the changes back to GitHub using git push. This helped me keep a version-controlled backup of my work.
+* __Using Branches__: While I didn’t create a new branch for this simple project, I’m aware that for more complex projects, working on different branches could help isolate features or fixes, allowing for a more modular development process.
+* __Pull Requests__: In larger collaborative projects, creating pull requests and asking for reviews would be important steps, but for this individual work, I mainly worked in the main branch.
 
+## Reflection on Markdown
+Markdown was an essential part of this homework since it’s lightweight and allows for easy formatting. I used Markdown to structure my README file and other documents within the project. Here are a few things I learned:
+* __Image Embedding__: One of the more interesting things I learned was how to embed images directly into a README file using Markdown syntax. I was able to showcase an image of my cat, Bailey, which made my README more personal and visually appealing.
 
+* __Surprises__: One thing that surprised me was how simple it is to format text in Markdown. I initially thought I would need extensive HTML or CSS knowledge, but Markdown’s simplicity (e.g., for headings, lists, and emphasis) allowed me to create a well-structured document with minimal effort.
 
+* __Challenges__: A minor challenge I encountered was making sure that links and images displayed correctly on GitHub. I learned that the paths to files (like images) should be relative to the project structure in GitHub, not my local machine.
 
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+_Overall, I found both GitHub and Markdown intuitive to use, and I’m confident that these tools will be essential in future projects, especially for collaboration and documentation._
